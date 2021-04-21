@@ -22,7 +22,13 @@ npm i gh-pages
 ```
 
 package.json에 
-"homepage" : "https://qoralswn82.github.io/movie_app_2021/" 선언
+```	json
+"homepage" : "https://qoralswn82.github.io/movie_app_2021/"
+```
+맨 하단에 추가
+
+```json
 "deploy" : "gh-pages -d build",
 "predeploy" : "npm run build"
-추가
+```
+script 에 추가
