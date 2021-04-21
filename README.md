@@ -1,5 +1,6 @@
 # Movie App 2021
 React JS Fundamentals Course(2021)
+click! [Movie App](https://qoralswn82.github.io/movie_app_2021/)
 
  ## props 사용 - 프로젝트 
  * 항목이 변하지 않는 list 내용을 보여줄 때 
@@ -31,4 +32,4 @@ package.json에
 "deploy" : "gh-pages -d build",
 "predeploy" : "npm run build"
 ```
-script 에 추가
+script 에
